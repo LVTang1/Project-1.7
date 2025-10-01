@@ -1,0 +1,23 @@
+body {
+  background-color: #f0dccc;
+  color: #143f21;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.Header1 {
+    background-color:rgb(255, 65, 65);
+    color: rgb(255, 255, 255);
+}
+
+.ResultHeader {
+    background-color: #56ff88;
+}
+
+.DonationHeader {
+    color: rgb(255, 255, 255);
+  background-image: url("Images/EmergencyImage.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+    padding: 30px 20px;
+}
